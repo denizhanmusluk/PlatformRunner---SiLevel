@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 8513a14d79f3f3242822cef797d1fd93
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BaseMap: {instanceID: 0}
+  - _MetallicGlossMap: {instanceID: 0}
+  - _SpecGlossMap: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _ParallaxMap: {instanceID: 0}
+  - _OcclusionMap: {instanceID: 0}
+  - _EmissionMap: {instanceID: 0}
+  - _ClearCoatMap: {instanceID: 0}
+  - _MainTex: {instanceID: 0}
+  - unity_Lightmaps: {instanceID: 0}
+  - unity_LightmapsInd: {instanceID: 0}
+  - unity_ShadowMasks: {instanceID: 0}
+  - _DecalMap: {instanceID: 0}
+  - _LiveryMap: {instanceID: 0}
+  - _DropletMask: {instanceID: 0}
+  - _RivuletMask: {instanceID: 0}
+  - _DirtMap: {instanceID: 0}
+  - _DirtBumpMap: {instanceID: 0}
+  - _FlakesBumpMap: {instanceID: 0}
+  - _EnviCubeBox: {instanceID: 0}
+  - _EnviCubeMapMain: {instanceID: 0}
+  - _EnviCubeMapSecondary: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
